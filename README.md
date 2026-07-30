@@ -4,10 +4,6 @@
 
 ### A Collection of Production-Style Machine Learning Systems
 
-**Course:** Creating AI-Enabled Systems — Fall 2024
-**Author:** Sichao Liu
-**Repository Type:** Multi-System Monorepo
-
 </div>
 
 ---
@@ -327,7 +323,5 @@ This repository is organized to allow each system to be evaluated independently.
 <div align="center">
 
 ---
-
-*This repository was developed for the Creating AI-Enabled Systems course, Fall 2024.*
 
 </div>
