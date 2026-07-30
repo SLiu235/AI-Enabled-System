@@ -1,0 +1,12 @@
+torch
+torchvision
+flask
+pillow
+numpy
+faiss-cpu
+redis
+python-dotenv
+facenet-pytorch
+opencv-python
+scipy
+scikit-image

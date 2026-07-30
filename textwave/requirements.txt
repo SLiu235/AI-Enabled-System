@@ -1,0 +1,12 @@
+torch
+transformers
+sentence_transformers
+pandas
+mistralai
+faiss-cpu
+numpy
+nltk
+qa-metrics
+fastapi
+pydantic
+uvicorn

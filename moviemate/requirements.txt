@@ -1,0 +1,12 @@
+Flask
+pyarrow
+scikit-learn
+pandas
+scikit-surprise
+numpy
+surprise
+matplotlib
+nltk 
+fastapi
+uvicorn
+python-multipart

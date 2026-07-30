@@ -1,0 +1,10 @@
+{
+    "trans_date_trans_time": "2024-09-05 12:30:45",
+    "cc_num": "1234512345",
+    "unix_time": 1677675045,
+    "merchant": "honest_merchant",
+    "category": "GROCERY_POS",
+    "amt": 100.50,
+    "merch_lat": 40.7128,
+    "merch_long": -74.0060
+}
